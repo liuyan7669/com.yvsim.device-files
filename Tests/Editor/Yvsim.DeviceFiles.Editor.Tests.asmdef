@@ -1,0 +1,14 @@
+{
+  "name": "Yvsim.DeviceFiles.Editor.Tests",
+  "rootNamespace": "Yvsim.DeviceFiles.Tests",
+  "references": [
+    "Yvsim.DeviceFiles"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}
